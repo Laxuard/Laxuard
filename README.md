@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![yjazouli's 42 stats](https://badge.mediaplus.ma/greenbinary/yjazouli)](https://github.com/oakoudad/badge42)
+
 <!--
 **Laxuard/Laxuard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
